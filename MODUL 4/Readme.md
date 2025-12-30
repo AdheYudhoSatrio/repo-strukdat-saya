@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul Singly Linked List</h1>
-<p align="center">Arvinanto Bahtiar</p>
+<p align="center">Adhe Yudho Satrio</p>
 
 ## Dasar Teori
 
