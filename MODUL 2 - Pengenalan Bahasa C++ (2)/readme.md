@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul Pengenalan Bahasa C++ (2)</h1>
-<p align="center">Arvinanto Bahtiar</p>
+<p align="center">Adhe Yudho Satrio</p>
 
 ## Dasar Teori
 
@@ -162,4 +162,5 @@ Program ini mengelola sebuah array, seperti menampilkan data, menentukan nilai m
 
 ## Referensi
 [[[1] I. Holm, Narrator, and J. Fullerton-Smith, Producer, How to Build a Human [DVD]. London: BBC; 2002.](https://elektro.um.ac.id/wp-content/uploads/2016/05/MODUL-6-ARRAY-DPK-2016.pdf)](https://www.academia.edu/35362129/Pemograman_C_Bab_12_Array_pdf)
+
 
