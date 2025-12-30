@@ -29,17 +29,34 @@ Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktika
 using namespace std;
 
 int main() {
-    cout << "ini adalah file code unguided praktikan" << endl;
+    float a, b;
+
+    cout << "Bilangan pertama: ";
+    cin >> a;
+    cout << "Bilangan kedua: ";
+    cin >> b;
+
+    cout << "\nTotal Penjumlahan: " << a + b << endl;
+    cout << "Total Pengurangan: " << a - b << endl;
+    cout << "Total Perkalian  : " << a * b << endl;
+    
+    if (b != 0)
+        cout << "Total Pembagian  : " << a / b << endl;
+    else
+        cout << "Pembagian gagal (pembagi = 0)" << endl;
+
     return 0;
 }
 ```
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
+<img width="977" height="144" alt="image" src="https://github.com/user-attachments/assets/17d7ce5d-74c7-4eb4-8921-335e0c79b0f3" />
 
-Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
+
+Kode di atas digunakan untuk menghitung dan menampilkan hasil operasi aritmatika dua angka. Nilai dimasukkan ke cin dan hasil penjumlahan, pengurangan, perkalian, dan pembagian ditampilkan dengan cout.
 
 #### Full code Screenshot:
-![240309_10h21m35s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/41e9641c-ad4e-4e50-9ca4-a0215e336b04)
+<img width="533" height="439" alt="image" src="https://github.com/user-attachments/assets/9e7a1736-88db-4fe4-8102-4bf3ecb6ddce" />
+
 
 
 ## Kesimpulan
