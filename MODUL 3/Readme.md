@@ -128,12 +128,7 @@ int main() {
 ```
 
 #### Output:
-
-
-
-
-
-
+<img width="628" height="106" alt="image" src="https://github.com/user-attachments/assets/33e3f315-03ed-45ed-b4b7-da4872b3f2d4" />
 
 Program ini melakukan pertukaran nilai pada tiga variabel secara bergantian dengan memanfaatkan konsep referensi. Nilai awal setiap variabel
 ditampilkan terlebih dahulu, kemudian fungsi tukarReference mengalihkan nilai dari x ke y, y ke z, dan z kembali ke x.
@@ -196,21 +191,24 @@ int main(){
     return 0;
 }
 
+
 ```
 #### Output:
-<img width="989" height="786" alt="image" src="https://github.com/user-attachments/assets/132a8830-7406-4430-87a8-ff5067cd1ba5" />
+<img width="1168" height="543" alt="image" src="https://github.com/user-attachments/assets/9d918909-f035-439d-89a8-87f24b786b62" />
 
-Kode ini menyediakan menu interaktif untuk mengolah sebuah array: tampilkan isi, cari maksimum, minimum, atau hitung rata-rata. 
-Setiap operasi dikerjakan oleh fungsi terpisah, dan program berulang sampai pengguna memilih keluar.
+
+Kode di atas untuk menampilkan dua array 2 dimensi, kemudian menukar seluruh isi dari kedua array tersebut. 
+Setelah pertukaran program akan menampilkan hasil akhir dari masing-masing array untuk memperlihatkan perubahan nilainya.
 
 #### Full code Screenshot:
-<img width="1131" height="380" alt="image" src="https://github.com/user-attachments/assets/a3f61bbb-7701-4a95-99c4-69aba5cb86fe" />
+<img width="755" height="841" alt="image" src="https://github.com/user-attachments/assets/9882fd08-69ff-4da3-9fdf-c60f1957fd7e" />
+
 
 ## Kesimpulan
-Program ini mengelola sebuah array, seperti menampilkan data, menentukan nilai maks dan min, dan menghitung nilai rata-rata.
+Sebagai kesimpulan, praktikum ini membuktikan bahwa bahasa C++ mampu digunakan untuk mengelola data secara terstruktur melalui pemanfaatan variabel, fungsi, struct, array, dan pointer, sekaligus membantu memisahkan bagian program sehingga kode menjadi lebih terorganisir dan mudah dipahami.
 
 ## Referensi
-[[[1] I. Holm, Narrator, and J. Fullerton-Smith, Producer, How to Build a Human [DVD]. London: BBC; 2002.](https://elektro.um.ac.id/wp-content/uploads/2016/05/MODUL-6-ARRAY-DPK-2016.pdf)](https://www.academia.edu/35362129/Pemograman_C_Bab_12_Array_pdf)
+Susilo, D., Nistrina, K., & Hartati, S. (2025). Buku Ajar Struktur Data. PT. Sonpedia Publishing Indonesia
 
 
 
