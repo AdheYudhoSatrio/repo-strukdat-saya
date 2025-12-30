@@ -7,7 +7,7 @@ Berikan penjelasan teori terkait materi modul ini dengan bahasa anda sendiri ser
 
 ## Guided 
 
-### 1. [Nama Topik]
+### 1. Modul Codeblocks IDE & Pengenalan Bahas C++ (1)
 
 ```C++
 #include <iostream>
@@ -43,7 +43,7 @@ Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktika
 
 
 ## Kesimpulan
-Ringkasan dan interpretasi pandangan kalia dari hasil praktikum dan pembelajaran yang didapat[1].
+Program ini berisi tentang perulangan bersarang, logika pengaturan posisi, dan pola output visual.
 
 ## Referensi
-[1] I. Holm, Narrator, and J. Fullerton-Smith, Producer, How to Build a Human [DVD]. London: BBC; 2002.
+[[1] I. Holm, Narrator, and J. Fullerton-Smith, Producer, How to Build a Human [DVD]. London: BBC; 2002.](https://elektro.um.ac.id/wp-content/uploads/2016/05/MODUL-6-ARRAY-DPK-2016.pdf)
