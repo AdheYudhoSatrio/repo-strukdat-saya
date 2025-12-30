@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum ABSTRACT DATA TYPE (ADT)</h1>
-<p align="center">Arvinanto Bahtiar</p>
+<p align="center">Adhe Yudho Satrior</p>
 
 ## Dasar Teori
 
