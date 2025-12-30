@@ -5,22 +5,6 @@
 
 Berikan penjelasan teori terkait materi modul ini dengan bahasa anda sendiri serta susunan yang terstruktur per topiknya.
 
-## Guided 
-
-### 1. Modul Codeblocks IDE & Pengenalan Bahas C++ (1)
-
-```C++
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "ini adalah file code guided praktikan" << endl;
-    return 0;
-}
-```
-Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
-
-## Unguided 
 
 ### 1. [Soal]
 
