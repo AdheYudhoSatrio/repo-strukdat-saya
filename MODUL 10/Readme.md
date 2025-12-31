@@ -1,4 +1,4 @@
-<img width="607" height="111" alt="image" src="https://github.com/user-attachments/assets/c98de427-968d-4036-aa3c-f1bef7acd05a" /># <h1 align="center">Laporan Praktikum Modul Singly Linked List</h1>
+
 <p align="center">Adhe Yudho Satrio</p>
 
 ## Dasar Teori
