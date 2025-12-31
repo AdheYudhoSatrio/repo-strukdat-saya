@@ -1,4 +1,4 @@
-TREE (1)
+)# <h1 align="center">TREE (1)</h1>
 <p align="center">Adhe Yudho Satrio</p>
 
 ## Dasar Teori
